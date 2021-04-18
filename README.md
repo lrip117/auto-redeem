@@ -8,6 +8,4 @@ Open the file
 
 And change the header ( at the top )
 
-# [Video]()
-
-( i make it )
+# [Video](https://youtu.be/5k9vLz0VDgE)
