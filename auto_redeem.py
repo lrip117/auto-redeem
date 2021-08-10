@@ -6,10 +6,10 @@ from time import sleep
 
 # --------------------------------------
 
-PLACE_FURNI = 1268
-REDEEM = 1009
-SPEECH_OUT = 1831
-SPEECH_IN = 2174
+PLACE_FURNI = 1258
+REDEEM = 3115
+SPEECH_OUT = 1314
+SPEECH_IN = 1797
 
 # --------------------------------------
 
